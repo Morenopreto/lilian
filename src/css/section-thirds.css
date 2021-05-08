@@ -1,0 +1,43 @@
+.title{
+    color: #f7931d;
+    text-align: start;
+    margin-left: 25px;
+
+}
+.titleAdd{
+    color: rgb(53, 53, 53);
+}
+.button-thirds{
+    background-color: #f7931d;
+}
+.button-thirds button{
+    color: white;
+}
+.cards{
+    background-color: white;
+    height: 320px;
+    /* min-width: 20vw; */
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    /* width: 30%; */
+}
+.cards-sect{
+display: flex;
+flex-flow: row wrap;
+justify-content: space-around;
+margin: 0 5vw;
+}
+.span-img{display: flex;
+    background-color: #f7931d;
+    width: 100%;
+    height: 50%;
+    
+}
+.cards ul{
+width: 50%;
+}
+.cards .button{
+    width: 80%;
+
+}

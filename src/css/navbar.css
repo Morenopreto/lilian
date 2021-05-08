@@ -1,0 +1,42 @@
+.navbar{
+    background-color: #f7931d;
+    width: 100vw;
+    height: 12vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.navbar div{
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    align-content:center ;
+}
+.div-link{
+    margin-right: 25px;
+}
+.div-img{
+    margin-left: 25px;
+}
+.div-img img{
+    height: 12vh;
+}
+.link-nav{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    align-self: flex-end;
+}
+.button-nav{
+    background-color: white;
+                  
+}
+.btn-nav{
+    color: #f7931d;
+}
+button{
+    background-color: transparent;
+    border: none;
+    font-weight: bold;
+    
+}

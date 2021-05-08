@@ -1,0 +1,23 @@
+.button-foot{
+    background-color: red;
+}
+.footer{
+    width: 100vw;
+    height: 18vh;
+    background-color: grey;
+    display: flex;
+    flex-flow: row wrap;
+    align-content: center;
+    justify-content: space-around;
+}
+.politics-div{
+    display: flex;
+    flex-flow: column wrap;
+    font-size: 0.7rem;
+
+}
+.footer .div-link, .footer .div-img{
+    display: flex;
+    flex-flow: row wrap ;
+    align-content: center
+}
